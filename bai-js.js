@@ -1,0 +1,5 @@
+class BaiTool{
+    
+  static searchKey(){}
+ 
+}
